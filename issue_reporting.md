@@ -18,6 +18,18 @@ Privacy is always important to keep in mind and we should not require any unnces
 - [ ] Users can submit issues without being authenticated. However if a user is authenticated the users email/identifier can be sent along with the issue.
   - [ ] Users that are authenticated can select to submit a issue anonymously.
 
+## Monetization
+A self-hosted version should always be available but for the administrators not wanting to host there own, a SaaS solution could be possible.
+It could be subscription based where the administrator pays based on the amount of submissions processed per month
+
+| Tier     |                              Description                               | Price |
+| -------- | :--------------------------------------------------------------------: | ----: |
+| Free     | 10 submissions per month. Submissions older than 3 months are deleted. |    $0 |
+| Hobbyist |  50 submissions per month. Submissions older than a year are deleted.  |    $2 |
+| Business |  Unlimited submissions per month. Submissions are saved indefinitely.  |   $10 |
+
+**Tiers and prices are suggestions only.*
+
 ## Useful links and resources
 * [Feedback Fish](https://feedback.fish/)
 * [react-feedback-widget](https://github.com/servoice/react-feedback-widget)
