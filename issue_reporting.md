@@ -34,3 +34,7 @@ It could be subscription based where the administrator pays based on the amount 
 * [Feedback Fish](https://feedback.fish/)
 * [react-feedback-widget](https://github.com/servoice/react-feedback-widget)
 * [react_feedback_widget](https://github.com/BinaryLeo/react_feedback_widget)
+### Design inspiration
+* [Report Feedback by Jordi Plaza](https://dribbble.com/shots/17107107-Report-Feedback)
+* [Feedback Modal UI Design by  Ildiko Gaspar](https://dribbble.com/shots/14896711-Feedback-Modal-UI-Design)
+* [Report Bug/Request Feature UI Design by Ildiko Gaspar](https://dribbble.com/shots/11923866-Report-Bug-Request-Feature-UI-Design)
